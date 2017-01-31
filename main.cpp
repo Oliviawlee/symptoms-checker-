@@ -59,6 +59,6 @@ int main(int argc, const char * argv[]) {
     {std::cout << "";
     }
    // so I basically want to have a clickable link whenever a sickness is detected. The link would be something like a health page with more info on the specific sickness. 
-    
+    // I also want the viewer to be able to type multiple symptoms so that they are more likely to find an accurate sickness. So for example, if they had both fever and muscle pain, it would lead to the flu. 
     return 0;
 }
